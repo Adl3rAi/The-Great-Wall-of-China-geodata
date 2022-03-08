@@ -25,7 +25,8 @@
 <body>
     <div id="map"></div>
     <!-- // set click for lng and lat -->
-    <pre id="info"></pre>
+
+    <!-- <pre id="info"></pre> -->
     <style type="text/css">
         #info {
             display: table;
@@ -43,6 +44,8 @@
         }
     </style>
     <!-- // set click for lng and lat -->
+    
+    <!-- <script type="text/javascript" src="/Users/huqingyuan/Desktop/geojsonOftheGreatWallofChina/routes.js"></script> -->
     <script type="text/javascript" src="https://gitcdn.link/cdn/Adl3rAi/The-Great-Wall-of-China-geodata/main/routes.js"></script>
     <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
     <script>
@@ -142,15 +145,15 @@
             // });
         });
         //set click
-        map.on('click', (e) => {
-            document.getElementById('info').innerHTML =
-                JSON.stringify(e.posint) +
-                '<br />' +
-                JSON.stringify(e.lngLat.wrap());
-        });
+        // map.on('click', (e) => {
+        //     document.getElementById('info').innerHTML =
+        //         JSON.stringify(e.posint) +
+        //         '<br />' +
+        //         JSON.stringify(e.lngLat.wrap());
+        // });
         //set the camera movement
         map.on('load', () => {
-        const animationDuration = 90000;
+        const animationDuration = 1200000;
         const cameraAltitude = 3000;
         // get the overall distance of each route so we can interpolate along them
         const routeDistance = turf.lineDistance(turf.lineString(targetRoute));
