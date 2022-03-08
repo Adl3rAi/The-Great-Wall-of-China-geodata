@@ -24,14 +24,20 @@
 
 <body>
     <div id="map"></div>
+    
+    <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
     <script>
         mapboxgl.accessToken = 'pk.eyJ1IjoiYWRsZXJhaSIsImEiOiJja3lpaWgwa3YxajFtMnZtbG92N3dnanZhIn0.m_kovV9aM08b1oPH2nf7aw';
         const map = new mapboxgl.Map({
             container: 'map',
             style: 'mapbox://styles/mapbox/satellite-v9',
             zoom: 7,
-            center: [119.795467, 39.966536]
+            center: [119.795467, 39.966536],
+            interactive: false
         });
+
+        const targetRoute = routes.target;
+        const cameraRoute = routes.camera;
 
         map.on('load', () => {
             map.addSource('mapbox-dem', {
@@ -63,6 +69,54 @@
                     'line-width': 5
                 },
                 'layout': {
+                    'line-cap': 'round',
+                    'line-join': 'round'
+                }
+            });
+            map.addSource('camera_target', {
+                type: 'geojson',
+                data: {
+                    'type': 'Feature',
+                    'properties': {},
+                    'geometry': {
+                        'type': 'LineString',
+                        'coordinates': targetRoute
+                    }
+                }
+            });
+            map.addSource('camera_camera', {
+                type: 'geojson',
+                data: {
+                    'type': 'Feature',
+                    'properties': {},
+                    'geometry': {
+                        'type': 'LineString',
+                        'coordinates': cameraRoute
+                    }
+                }
+            });
+            map.addLayer({
+                type: 'line',
+                source: 'camera_target',
+                id: 'camera1',
+                paint: {
+                    'line-color': '#dc143c',
+                    'line-width': 5
+                },
+                layout: {
+                    'line-cap': 'round',
+                    'line-join': 'round'
+                }
+            });
+            map.addLayer({
+                type: 'line',
+                source: 'camera_camera',
+                id: 'camera2',
+                paint: {
+                    'line-color': '#1e903f',
+                    'line-width': 5
+                },
+                layout: {
                     'line-cap': 'round',
                     'line-join': 'round'
                 }
