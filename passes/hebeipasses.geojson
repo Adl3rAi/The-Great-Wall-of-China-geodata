@@ -598,6 +598,435 @@
                     40.19546240907115
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "白羊峪 Baiyangyu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.72351884841918,
+                    40.197970091080734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "五重安 Wuchongan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.68221282958984,
+                    40.22446717835459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "擦崖子 Cayazi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.59425783157349,
+                    40.258732514898966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "城子峪 Chengziyu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.56391668319704,
+                    40.26870420296336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大岭寨 Dalingzhai"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.52600097656249,
+                    40.30060699939572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "榆木岭 Yumuling"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.53157997131348,
+                    40.363615335058896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山口 Qingshankou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.54593515396117,
+                    40.40691168969942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "董家口 Dongjiakou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.4696102142334,
+                    40.4017646570263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "铁门关 Tiemenguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.4043788909912,
+                    40.412826206284144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "李家峪 Lijiayu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.39583873748778,
+                    40.415244146238116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "椴木谷 Duanmugu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.39301705360411,
+                    40.4201451093125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "石梯子谷 Shitizigu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.3582019805908,
+                    40.42607479729008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喜峰口 Xifengkou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.32088708877563,
+                    40.427773564731304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "小喜峰口 Xiaoxifengkou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.31103801727296,
+                    40.41785803763854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "潘家口 Panjiakou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.27065467834473,
+                    40.4297009604458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东常谷关 Dongchangguguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.24713706970213,
+                    40.432640949208285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "西常谷关 Xichangguguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.21537971496582,
+                    40.422448438628635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "三台山关 Santaishanguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.19130420684813,
+                    40.41035916448923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "苏郎峪 Sulangyu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.1681728363037,
+                    40.400620818540496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "龙井关 Longjingguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.15499782562254,
+                    40.390292711220134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洪山口 Hongshankou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.08781385421753,
+                    40.35225135844595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "活口 Huokou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.05451154708862,
+                    40.31850787140828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "马蹄峪 Matiyu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.99734830856323,
+                    40.29147474579368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "秋科峪 Qiukeyu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.97572970390318,
+                    40.293414225453695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "甘查峪 Ganchayu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.9643678665161,
+                    40.291442011482125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "罗文峪 Luowenyu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.94720172882079,
+                    40.28090073863882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "口门子 Koumenzi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.91304111480711,
+                    40.28320882868767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "沙坡峪 Shapoyu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.87645578384398,
+                    40.26850773069548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "冷咀头 Lenzuitou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.8376817703247,
+                    40.26000975899116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大安口 Da'ankou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.77034759521483,
+                    40.24373128010711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "上关 Shangguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.73069381713867,
+                    40.23046322595866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "马兰峪 Malanyu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.67383098602295,
+                    40.22017459972432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "龙洞谷 Longdonggu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.62241840362547,
+                    40.20488622354671
+                ]
+            }
         }
     ]
 }
