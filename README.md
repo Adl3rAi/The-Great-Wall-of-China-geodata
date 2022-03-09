@@ -9,8 +9,13 @@ The data is divided into two parts (direction and passes) according to the moder
 ---
 ## Name Reference 
 The word **关/關(guān)** means **Pass** 
+
 The word **峪(yù)/谷(gǔ)** means **Valley**
+
 The word **岭(lǐng)** means the **Mountain** with a road to top
+
 **Shanhaiguan** is a Pass named Shanhai, literal meaning "Mountain and Sea Pass"
+
 **Mutianyu** is a Valley named Mutian, literal meaning "Field of the damiration Valley"
+
 **Badaling** is a Mountain named Bada
