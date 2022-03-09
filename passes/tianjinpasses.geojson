@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "古强峪 Guqiangyu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.53911972045898,
+                    40.18149636613134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "船舱峪 Chuancangyu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.5334119796753,
+                    40.18054552157701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山岭 Qingshanling"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.50122547149657,
+                    40.204312637495846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄崖关 Huangyaguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.43979215621947,
+                    40.24455021059767
+                ]
+            }
+        }
+    ]
+}
