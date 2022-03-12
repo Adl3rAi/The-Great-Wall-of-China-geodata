@@ -1,0 +1,304 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "彰作关 Zhangzuoguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.3441982269287,
+                    40.22738335523681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "将军关 Jiangjunguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.31244087219237,
+                    40.27598964655471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黑水湾口 Heishuiwankou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.28366613388062,
+                    40.24374765881399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄松峪关 Huangsongyuguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.25195169448853,
+                    40.24017700697893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "北寨口 Beizhaikou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.19671964645386,
+                    40.248284408045215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "熊儿河口 Xiongerhekou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.1688461303711,
+                    40.299199599903325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南水峪关 Nanshuiyuguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.21742630004883,
+                    40.32351403031129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "北水峪关 Beishuiyuguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.208092212677,
+                    40.36423661956072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄门子口 Huangmenzikou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.22291946411133,
+                    40.38400028710144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "墙子路关 Qiangziluguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.22901344299315,
+                    40.42035747630869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "磨刀峪口 Modaoyukou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.24572896957396,
+                    40.4298969636954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泉水河口 Quanshuihekou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.25285291671753,
+                    40.44123151309826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "石灰峪口 Shihuiyukou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.23036527633667,
+                    40.46621303493047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "小黄岩口 Xiaohuangyankou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.20577478408812,
+                    40.50560943602521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大黄岩口 Dahuangyankou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.24122285842894,
+                    40.537612175160646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大虫峪口 Dachongyukou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.34252452850342,
+                    40.605253659107085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "镰钯峪口 Lianpangyukou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.42359161376952,
+                    40.62607020467508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大黑关 Daheiguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.49714851379395,
+                    40.64704307144758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "水谷寨口 Shuiguzhaikou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.49423027038576,
+                    40.66739087336782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大角峪口 Dajiaoyukou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.44646549224854,
+                    40.6750725891548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "倒班岭关 Daobanlingguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.43213176727295,
+                    40.67995457563685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "师姑峪口 Shiguyukou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.4174976348877,
+                    40.68350192818986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "扒头崖口 Patouyakou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.40294933319092,
+                    40.6853568905881
+                ]
+            }
+        }
+    ]
+}
