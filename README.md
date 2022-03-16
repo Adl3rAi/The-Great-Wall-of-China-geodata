@@ -8,11 +8,12 @@ The data is divided into two parts (direction and passes) according to the moder
 | **Shaanxi** | **Shaanxi** and **Ningxia** and **Gansu** |
 ---
 ## Name Reference 
-The word **关/關(guān)** means **Pass** 
-
-The word **峪(yù)/谷(gǔ)** means **Valley**
-
-The word **岭(lǐng)** means the **Mountain** with a road to top
+| Chinese | English |
+| :----: | :----: |
+| **关/關(guān)** and **口(kǒu)** | **Pass** | 
+| **峪(yù)/谷(gǔ)** | **Valley** | 
+| **岭(lǐng)** | the **Mountain** with a road to top | 
+| **城(chéng)** | The area inner the **city wall** | 
 
 **Shanhaiguan** is a Pass named Shanhai, literal meaning "Mountain and Sea Pass"
 
