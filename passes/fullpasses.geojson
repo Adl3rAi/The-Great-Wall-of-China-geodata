@@ -1291,7 +1291,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "镰钯峪口 Lianpangyukou"
+                "name": "镰钯峪口 Lianpayukou"
             },
             "geometry": {
                 "type": "Point",
@@ -2312,6 +2312,45 @@
                 "coordinates": [
                     115.46811103820801,
                     39.96264869397871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "四海冶口 Sihaiyekou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.41628265380861,
+                    40.535981416290674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "营盘口 Yingpankou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.27689361572266,
+                    40.60913078424154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "白河口 Baihekou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.18634223937988,
+                    40.66052214937429
                 ]
             }
         }
