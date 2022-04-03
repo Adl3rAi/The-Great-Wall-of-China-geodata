@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Pengzuoguan to Jiangjunguan"
+                "name": "Zhangzuoguan to Jiangjunguan"
             },
             "geometry": {
                 "type": "LineString",
