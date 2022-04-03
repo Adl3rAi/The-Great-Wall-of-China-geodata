@@ -46,7 +46,7 @@
     </style>
     <!-- // set click for lng and lat -->
 
-    <!-- <script type="text/javascript" src="/Users/huqingyuan/Desktop/geojsonOftheGreatWallofChina/routes.js"></script> -->
+    <script type="text/javascript" src="/Users/huqingyuan/Desktop/geojsonOftheGreatWallofChina/routes.js"></script>
     <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
     <script>
         mapboxgl.accessToken = 'pk.eyJ1IjoiYWRsZXJhaSIsImEiOiJja3lpaWgwa3YxajFtMnZtbG92N3dnanZhIn0.m_kovV9aM08b1oPH2nf7aw';
@@ -58,8 +58,8 @@
 
         });
 
-        // const targetRoute = routes.target;
-        // const cameraRoute = routes.camera;
+        const targetRoute = routes.target;
+        const cameraRoute = routes.camera;
 
         map.on('load', () => {
             map.addSource('mapbox-dem', {
