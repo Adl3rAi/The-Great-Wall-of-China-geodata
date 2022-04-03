@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>The Great Wall of China</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <style type="text/css">
+        #info {
+            display: table;
+            position: relative;
+            margin: 0px auto;
+            word-wrap: anywhere;
+            white-space: pre-wrap;
+            padding: 10px;
+            border: none;
+            border-radius: 3px;
+            font-size: 12px;
+            text-align: center;
+            color: #222;
+            background: #fff;
+        }
+    </style>
+    <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoiYWRsZXJhaSIsImEiOiJja3lpaWgwa3YxajFtMnZtbG92N3dnanZhIn0.m_kovV9aM08b1oPH2nf7aw';
+        const map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/satellite-v9',
+            zoom: 14,
+            center: [119.795467, 39.966536],
+
+        });
+        map.on('load', () => {
+            map.addSource('mapbox-dem', {
+                'type': 'raster-dem',
+                'url': 'mapbox://mapbox.mapbox-terrain-dem-v1',
+                'tileSize': 512,
+                'maxzoom': 14
+            });
+            map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 1.5 });
+            map.addLayer({
+                'id': 'sky',
+                'type': 'sky',
+                'paint': {
+                    'sky-type': 'atmosphere',
+                    'sky-atmosphere-sun': [0.0, 90.0],
+                    'sky-atmosphere-sun-intensity': 15
+                }
+            });
+            map.addSource('greatwall', {
+                type: 'geojson',
+                data: 'https://raw.githubusercontent.com/Adl3rAi/The-Great-Wall-of-China-geodata/main/direction/fulldirection.geojson'
+            });
+            map.addLayer({
+                'id': 'greatwall',
+                'type': 'line',
+                'source': 'greatwall',
+                'paint': {
+                    'line-color': '#f6aa39',
+                    'line-width': 5
+                },
+                'layout': {
+                    'line-cap': 'round',
+                    'line-join': 'round'
+                }
+            });
+            map.addSource('greatwallpass', {
+                type: 'geojson',
+                data: 'https://raw.githubusercontent.com/Adl3rAi/The-Great-Wall-of-China-geodata/main/passes/fullpasses.geojson'
+            });
+            map.addLayer({
+                'id': 'pass',
+                'type': 'symbol',
+                'source': 'greatwallpass',
+                'layout': {
+                    'text-field': ['get','name'],
+                    'text-variable-anchor': ['top','bottom','left','right'],
+                    'text-radial-offset': 0.5,
+                    'text-justify': 'auto',
+                    'icon-image': 'castle-15'
+                },
+                'paint': {
+                    'text-color': 'white'
+                }
+            });
+        });
+    </script>
+
+</body>
+
+</html>
