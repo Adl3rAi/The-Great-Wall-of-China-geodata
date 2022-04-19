@@ -5330,6 +5330,539 @@
                     37.09263607505595
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "花马池堡 Huamachibao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.40131378173828,
+                    37.7831974274346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "柳杨堡 Liuyangbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.39635705947876,
+                    37.8853032075881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "安定堡 Andingbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.22896575927734,
+                    37.93756388135571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "英雄堡 Yingxiongbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.11566925048828,
+                    38.016248724673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "兴武营所 Xingwuyingsuo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.02983856201172,
+                    38.1095731509896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "毛卜剌堡 Maobulabao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.88263893127441,
+                    38.143906282102755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "清水营堡 Qingshuiyingbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7023515701294,
+                    38.202171463410224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "红山堡 Hongshanbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.52069091796875,
+                    38.27605762011327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "横城堡 Hengchengbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.43400192260742,
+                    38.36696379052957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黑山营堡 Heishanyingbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.70801639556885,
+                    39.04481937885906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "镇远关 Zhenyuanguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67673110961913,
+                    39.183570366975225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "打硙口关 Daweikouguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.42301559448242,
+                    39.09383130692365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "临山堡 Linshanbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.3996696472168,
+                    39.050751931979036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "镇北门 Zhenbeimen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.42275810241699,
+                    39.00291070649836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "威震堡 Weizhenbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.52117371559143,
+                    38.958899888800474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "平虏所 Pinglusuo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.54528141021729,
+                    38.90400862491863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汝箕沟口 Rujigoukou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.25242710113525,
+                    38.93651285516145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大水口 Dashuikou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.16758346557617,
+                    38.88308251760576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "插旗口 Chaqikou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.06518745422363,
+                    38.8076774262959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "贺兰口 Helankou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.02158546447754,
+                    38.74424327123914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "苏峪口 Suyukou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.98613739013672,
+                    38.71645634793425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "拜寺口 Baisikou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.95935821533203,
+                    38.67988166897408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "小水渠口 Xiaoshuiqukou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.9532642364502,
+                    38.666747735267805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "马蜂口 Mafengkou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.95532417297363,
+                    38.64744452237617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄旗口 Huangqikou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.94751358032227,
+                    38.624783422509864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "小口子 Xiaokouzi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.94056129455566,
+                    38.60563658712122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大口子 Dakouzi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.93828678131104,
+                    38.589168234201274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄莲口 Huangliankou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.92785835266113,
+                    38.5705822976803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "春树口 Chunshukou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.91833114624023,
+                    38.557763922832905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "三道关 Sandaoguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.74237823486328,
+                    38.396029684120315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "二道关 Erdaoguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.77499389648438,
+                    38.3868805698475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "赤木口关 Chimukouguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82305908203124,
+                    38.34636838372135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "磨石口 Moshikou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.79250335693358,
+                    38.21552506654349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "北岔口 Beichakou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.77138900756836,
+                    38.174107428338985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "灵州所 Lingzhousuo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.33289337158203,
+                    38.10187383223236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "井沟口 Jinggoukou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.78125953674316,
+                    37.74452137991442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "胜金关 Shengjinguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.43828010559082,
+                    37.52688133956392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中卫 Zhongwei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.18619537353516,
+                    37.51462781586027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "甜水堡 Tianshuibao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.78552150726318,
+                    37.148379344342096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "下马关 Xiamaguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.4461898803711,
+                    37.112967104709234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "红城堡 Hongchengbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.92970371246338,
+                    36.91397510654043
+                ]
+            }
         }
     ]
 }
