@@ -1,0 +1,577 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "索桥堡 Suoqiaobao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.3001651763916,
+                    37.12590219135711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "芦塘堡 Lutangbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.1534161567688,
+                    37.140545600164785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "三眼井堡 Sanyanjingbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.9336895942688,
+                    37.3131100338695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "红水堡 Hongshuibao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88165473937988,
+                    37.44222292776141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "老城堡 Laochengbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.67883682250977,
+                    37.46862512097822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大靖城 Dajingcheng"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.4104871749878,
+                    37.474892143455676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "土门堡 Tumenbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.07147741317749,
+                    37.61432490127956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高沟堡 Gaogoubao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.87998914718628,
+                    37.95396069299077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "凉州卫 Liangzhouwei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.63693809509276,
+                    37.9276800317787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "菜旗堡 Caiqibao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.75387167930603,
+                    38.22386982437132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黑山堡 Heishanbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.89125442504883,
+                    38.3712705857646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "镇番卫 Zhenfanwei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.08810710906981,
+                    38.62374405826767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "永昌卫 Yongchangwei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.96788787841797,
+                    38.24680876017446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "峡口堡 Xiakoubao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.41475200653076,
+                    38.51090036731192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "富汤堡 Futangbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.37093544006348,
+                    38.56789801054657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新河堡 Xinhebao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.36612892150879,
+                    38.57873520491678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "山丹卫 Shandanwei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.08730792999268,
+                    38.78242427757064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "甘肃镇 Gansuzhen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.45537948608397,
+                    38.936312566527214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "五坝堡 Wubabao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.8876953125,
+                    39.39348927096842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "六坝堡 Liubabao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.8448657989502,
+                    39.394484220547284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高台所 Gaotaisuo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.81654167175293,
+                    39.37697103533876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "七坝堡 Qibabao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.76294040679932,
+                    39.43206633533498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "九坝堡 Jiubabao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.67150926589966,
+                    39.51147408880313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "胭脂堡 Yanzhibao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.65158581733704,
+                    39.601393841918565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "镇虏堡 Zhenlubao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.64548647403717,
+                    39.62250750872564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "临河堡 Linhebao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.61095571517944,
+                    39.626912092875486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "河西堡 Hexibao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.53201293945311,
+                    39.70817711795941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "镇夷所 Zhenyisuo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.47278976440428,
+                    39.792775981306484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "深沟堡 Shengoubao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.45871353149414,
+                    39.69596043694606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "盐池堡 Yanchibao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.29612874984741,
+                    39.77234517405955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "双井子堡 Shuangjingzibao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.06642436981201,
+                    39.758325373637405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄泥堡 Huangnibao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.82667243480682,
+                    39.70994340502461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "两口山堡 Liangkoushanbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.6486005783081,
+                    39.83245772085281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新城堡 Xinchengbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.4724974632263,
+                    39.869135727070145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "马家堡 Majiabao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.41923952102661,
+                    39.910411060017964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "野麻湾堡 Yemawanbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.39269638061523,
+                    39.91403196125054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "石关 Shiguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.17955732345581,
+                    39.84955130291455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "嘉峪关 Jiayuguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.21618556976318,
+                    39.80128290591647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "卯来泉堡 Maolaiquanbao"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.1998348236084,
+                    39.562873441371494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "肃州卫 Suzhouwei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.50985527038574,
+                    39.74369225589818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "古浪所 Gulangsuo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.89176940917967,
+                    37.459870845970656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "庄浪卫 Zhuanglangwei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.2593822479248,
+                    36.73675184880118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "甘州卫 Ganzhouwei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84757995605469,
+                    36.050764426908515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "靖虏卫 Jingluwei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.68348503112793,
+                    36.566046948791524
+                ]
+            }
+        }
+    ]
+}
