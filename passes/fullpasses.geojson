@@ -6435,6 +6435,71 @@
                     36.566046948791524
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "镇北关 Zhenbeiguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.42016601562499,
+                    42.924251753870685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "抚顺关 Fushunguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.46548461914061,
+                    41.91147545749747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "广顺关 Guangshunguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.486083984375,
+                    42.72683914955442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鸦鹘关 Yaguguan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.96673583984374,
+                    41.50034959128928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "九连城 Jiuliancheng"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.45261001586914,
+                    40.19670806662855
+                ]
+            }
         }
     ]
 }
