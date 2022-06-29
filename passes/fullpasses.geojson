@@ -4216,6 +4216,19 @@
         {
             "type": "Feature",
             "properties": {
+              "name": "偏头关所 Piantouguansuo"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                111.49406433105469,
+                39.43937483836522
+              ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "桦林堡 Hualinbao"
             },
             "geometry": {
