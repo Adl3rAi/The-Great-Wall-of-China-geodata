@@ -4320,6 +4320,19 @@
         {
             "type": "Feature",
             "properties": {
+              "name": "宁武关 Ningwuguan"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                112.30430603027344,
+                39.0047782882536
+              ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "大水口 Dashuikou"
             },
             "geometry": {
