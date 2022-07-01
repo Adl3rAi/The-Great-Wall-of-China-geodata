@@ -3176,6 +3176,19 @@
         {
             "type": "Feature",
             "properties": {
+              "name": "龙泉关 Longquanguan"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                113.83895874023438,
+                38.91935274409853
+              ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "狼牙口 Langyakou"
             },
             "geometry": {
